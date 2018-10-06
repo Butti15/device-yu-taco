@@ -22,7 +22,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_taco
 BOARD_VENDOR := CMCC
 
-PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+PRODUCT_GMS_CLIENTID_BASE := android-cmcc
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=taco \
