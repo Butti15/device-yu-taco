@@ -1,6 +1,6 @@
 Copyright 2017 - LineageOS
 
-# Device Tree for Xiaomi Redmi 4 Prime/wt88553 (MARKW) 
+# Device Tree for YU Yureka 2(Taco)
 
 ## Spec Sheet
 
