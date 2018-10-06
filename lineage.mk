@@ -26,6 +26,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=taco \
-    PRIVATE_BUILD_DESC="markw-user 6.0.1 MMB29M V9.6.1.0.MBEMIFA release-keys"
+    PRIVATE_BUILD_DESC="wt89536-user 6.0.1 MMB29M eng.zhouchao.20170723.172948 release-keys"
 
-BUILD_FINGERPRINT := Xiaomi/markw/markw:6.0.1/MMB29M/V9.6.1.0.MBEMIFA:user/release-keys
+BUILD_FINGERPRINT := YU/YUREKA2/YUREKA2:6.0.1/MMB29M/01112051:user/release-keys
