@@ -125,8 +125,8 @@ void gsi_check()
         property_override("ro.product.device", "taco");
         property_override("ro.product.manufacturer", "CMCC");
         property_override("ro.build.product", "taco");
-        property_override("ro.build.description", "markw-user 6.0.1 MMB29M V9.6.1.0.MBEMIFA release-keys");
-        property_override("ro.build.fingerprint", "Xiaomi/markw/markw:6.0.1/MMB29M/V9.6.1.0.MBEMIFA:user/release-keys");
+        property_override("ro.build.description", "wt89536-user 6.0.1 MMB29M eng.zhouchao.20170723.172948 release-keys");
+        property_override("ro.build.fingerprint", "YU/YUREKA2/YUREKA2:6.0.1/MMB29M/01112051:user/release-keys");
     }
 }
 
