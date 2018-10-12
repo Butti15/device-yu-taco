@@ -17,9 +17,9 @@
 $(call inherit-product, device/cmdc/taco/full_taco.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/du/config/common.mk)
 
-PRODUCT_NAME := lineage_taco
+PRODUCT_NAME := du_taco
 BOARD_VENDOR := CMCC
 
 PRODUCT_GMS_CLIENTID_BASE := android-micromax

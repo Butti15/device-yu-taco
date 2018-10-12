@@ -31,6 +31,10 @@ persist.vendor.audio.speaker.prot.enable=false
 vendor.audio.dolby.ds2.hardbypass=true
 vendor.audio.flac.sw.decoder.24bit=true
 
+#DU Mod
+ro.mod.version=12.5.2
+ro.du.version=12.5.2
+
 # Audio offload
 audio.offload.disable=true
 audio.offload.min.duration.secs=30
