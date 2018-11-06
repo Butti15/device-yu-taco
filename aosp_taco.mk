@@ -19,6 +19,8 @@ $(call inherit-product, device/cmdc/taco/full_taco.mk)
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/aosp/config/common.mk)
 
+TARGET_BOOT_ANIMATION_RES := 1080p
+TARGET_GAPPS_ARCH := arm64
 PRODUCT_NAME := aosp_taco
 BOARD_VENDOR := CMCC
 
